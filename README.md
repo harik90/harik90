@@ -40,15 +40,16 @@
 
 ## 📈 Real-Time GitHub Stats
 
-<div align="left" style="background-color:#000000; padding:20px; border-radius:15px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
+<div align="left|center" style="background-color:#000000; padding:20px; border-radius:15px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&border_radius=15&bg_color=000000" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&border_radius=15&bg_color=000000" width="45%" style="display:block; margin:auto;" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&border_radius=15&background=000000" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&border_radius=15&background=000000" width="45%" style="display:block; margin:auto;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&border_radius=15&bg_color=000000" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&border_radius=15&bg_color=000000" width="45%" style="display:block; margin:auto;" />
 
 </div>
+
 
 ---
 
