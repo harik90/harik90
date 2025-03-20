@@ -51,8 +51,8 @@
 ---
 
 ## 🌐 Connect With Me
-- **GitHub:** [harik90](https://github.com/harik90)
-- **Telegram:** [@ANON](https://t.me/Anon734)
+- **GitHub:** [Harik Gond](https://github.com/harik90)
+- **Telegram:** [ANON](https://t.me/Anon734)
 
 ---
 
