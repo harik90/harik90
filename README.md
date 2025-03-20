@@ -40,7 +40,7 @@
 
 ## 📈 Real-Time GitHub Stats
 
-<p align="left">
+<p align="left|top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&bg_color=000000&border_color=00FF00&border_radius=10" width="48%" />
 
