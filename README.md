@@ -70,11 +70,11 @@
 ---
 
 ## 🌐 🤝 **CONNECT WITH ME**
-| Platform | Link |
-|---------|------|
-| 🖥️ **GitHub** | [ANON](https://github.com/harik90) |
-| 💬 **Telegram** | [ANON](https://t.me/Anon734) |
-| 💬 **Pinterest** | [ANON](https://pin.it/SDeB1nv4r) |
+| 🌐 **Platform** | 🔗 **Access Link** |
+|-----------------|--------------------|
+| 🖥️ **GitHub Profile** | [Visit ANON on GitHub](https://github.com/harik90) |
+| 💬 **Join Telegram Channel** | [Join ANON on Telegram](https://t.me/Anon734) |
+| 📌 **Follow on Pinterest** | [Explore ANON on Pinterest](https://pin.it/SDeB1nv4r) |
 
 ---
 
