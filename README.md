@@ -41,7 +41,7 @@
 
 ## 📈 Real-Time GitHub Stats
 
-<div align="center" style="background-color:#000000; padding:15px; border-radius:10px;">
+<div align="left|center" style="background-color:#000000; padding:15px; border-radius:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight" width="48%" />
