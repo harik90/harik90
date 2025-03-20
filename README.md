@@ -24,6 +24,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 ---
 
 ## 🧠 Skills & Tools with Progress
