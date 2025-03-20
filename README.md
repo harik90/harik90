@@ -74,7 +74,7 @@
 |---------|------|
 | 🖥️ **GitHub** | [ANON](https://github.com/harik90) |
 | 💬 **Telegram** | [ANON](https://t.me/Anon734) |
-| 💬 **Printres** | [ANON](https://pin.it/SDeB1nv4r) |
+| 💬 **Pinterest** | [ANON](https://pin.it/SDeB1nv4r) |
 
 ---
 
