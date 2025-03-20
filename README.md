@@ -40,16 +40,35 @@
 
 ## 📈 Real-Time GitHub Stats
 
-<div align="left|center" style="background-color:#000000; padding:20px; border-radius:15px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&border_radius=15&bg_color=000000" width="45%" style="display:block; margin:auto;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&border_radius=15&background=000000" width="45%" style="display:block; margin:auto;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&border_radius=15&bg_color=000000" width="45%" style="display:block; margin:auto;" />
+<p align="left">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&bg_color=000000&border_color=00FF00&border_radius=10" width="48%" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&background=000000&border=00FF00&border_radius=10" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&bg_color=000000&border_color=00FF00&border_radius=10" width="48%" />
+
+</p>
+
+
+
+---
+
+## 🔧 🚀 **PROJECTS & TOOLS**
+| 📂 Project / Tool | 🌐 Link |
+|-------------------|--------|
+| 🛠️ **Hacking Tools & Scripts** | [🔗 View](https://github.com/harik90) |
+| 📱 **Android RAT (Private Repo)** | 🔒 Private |
+| 🕵️ **OSINT Tools & Automation** | [🔗 View](https://github.com/harik90) |
+| 🐍 **Python Security Scripts** | [🔗 View](https://github.com/harik90) |
+
+---
+
+## 🌐 🤝 **CONNECT WITH ME**
+| Platform | Link |
+|---------|------|
+| 🖥️ **GitHub** | [ANON](https://github.com/harik90) |
+| 💬 **Telegram** | [ANON](https://t.me/Anon734) |
 
 ---
 
@@ -65,21 +84,6 @@
 | 🧠 OSINT / Dark Web Research   | ████████ 80%         |
 | 🛠️ Metasploit / Nmap / Burp    | ████████ 80%         |
 
----
-
-## 🔧 Projects & Tools
-- 🔗 [Hacking Tools & Scripts](https://github.com/harik90)
-- 🔗 [Android RAT - Private Repo]
-- 🔗 [OSINT Tools & Automation](https://github.com/harik90)
-- 🔗 [Python Security Scripts](https://github.com/harik90)
-
----
-
-## 🌐 Connect With Me
-- **GitHub:** [Harik Gond](https://github.com/harik90)
-- **Telegram:** [ANON](https://t.me/Anon734)
-
----
 
 ## ☠️ Hacker Quote
 > **"Hack Everything, Respect Everyone - Code is My Weapon"**
