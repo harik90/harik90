@@ -43,15 +43,15 @@
 <p align="center">
 
 <a href="https://github.com/harik90">
-  <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&bg_color=000000&border_color=FFFFFF&border_radius=10" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&bg_color=000000&border_color=FFFFFF&border_radius=10"/>
 </a>
 
 <a href="https://github.com/harik90">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&background=000000&border=FFFFFF&border_radius=10" width="48%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&background=000000&border=FFFFFF&border_radius=10" />
 </a>
 
 <a href="https://github.com/harik90">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&bg_color=000000&border_color=FFFFFF&border_radius=10" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&bg_color=000000&border_color=FFFFFF&border_radius=10" />
 </a>
 
 </p>
