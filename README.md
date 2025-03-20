@@ -14,6 +14,16 @@
 - 🌐 Deep knowledge of **Linux, Bash Scripting, and Network Security**
 - 🛠️ Building **Custom Tools, Automation Scripts, and Android RATs**
 
+
+
+---
+
+## 📈 Real-Time GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ## 🧠 Skills & Tools with Progress
@@ -28,14 +38,6 @@
 | 🧠 OSINT / Dark Web Research   | ████████ 80%         |
 | 🛠️ Metasploit / Nmap / Burp    | ████████ 80%         |
 
----
-
-## 📈 Real-Time GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
