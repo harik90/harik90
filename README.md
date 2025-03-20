@@ -40,16 +40,21 @@
 
 ## 📈 Real-Time GitHub Stats
 
-<p align="left|top">
+<p align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&bg_color=000000&border_color=00FF00&border_radius=10" width="48%" />](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<a href="https://github.com/harik90">
+  <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&bg_color=000000&border_color=FFFFFF&border_radius=10" width="30%" height="200" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&background=000000&border=00FF00&border_radius=10" width="48%" />
+<a href="https://github.com/harik90">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&background=000000&border=FFFFFF&border_radius=10" width="30%" height="200" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&bg_color=000000&border_color=00FF00&border_radius=10" width="48%" />
+<a href="https://github.com/harik90">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&bg_color=000000&border_color=FFFFFF&border_radius=10" width="30%" height="200" />
+</a>
 
 </p>
-
 
 
 ---
