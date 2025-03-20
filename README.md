@@ -6,7 +6,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 - 🧠 **Software Engineer | Ethical Hacker | Android Developer**
 - 💻 Expert in **Cyber Security, App Development, and Ethical Hacking**
 - 📱 Proficient in **Android Studio (Java & XML)**
@@ -18,7 +18,7 @@
 
 ---
 
-# 📈 Real-Time GitHub Stats
+## 📈 Real-Time GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight" alt="GitHub Streak" />
@@ -27,7 +27,7 @@
 
 ---
 
-# 🧠 Skills & Tools with Progress
+## 🧠 Skills & Tools with Progress
 | Skill                          | Progress            |
 |------------------------------- |---------------------|
 | 🐍 Python                     | ██████████ 90%       |
@@ -42,7 +42,7 @@
 
 ---
 
-# 🔧 Projects & Tools
+## 🔧 Projects & Tools
 - 🔗 [Hacking Tools & Scripts](https://github.com/harik90)
 - 🔗 [Android RAT - Private Repo]
 - 🔗 [OSINT Tools & Automation](https://github.com/harik90)
@@ -50,13 +50,13 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 - **GitHub:** [Harik Gond](https://github.com/harik90)
 - **Telegram:** [ANON](https://t.me/Anon734)
 
 ---
 
-# ☠️ Hacker Quote
+## ☠️ Hacker Quote
 > **"Hack Everything, Respect Everyone - Code is My Weapon"**
 
 ---
