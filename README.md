@@ -31,7 +31,7 @@
 ## 🚀 About Me
 - 🧠 **Software Engineer | Ethical Hacker | Android Developer**
 - 💻 Expert in **Cyber Security, App Development, and Ethical Hacking**
-- 📱 Proficient in **Android Studio (Java & XML)**
+- 📱 Proficient in **Linux (Lua & C#) and Android Studio (Java & XML)**
 - 🔥 Passionate about **Penetration Testing, OSINT, and Reverse Engineering**
 - 🌐 Deep knowledge of **Linux, Bash Scripting, and Network Security**
 - 🛠️ Building **Custom Tools, Automation Scripts, and Android RATs**
