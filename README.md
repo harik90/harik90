@@ -59,7 +59,7 @@
 
 ---
 
-## 🔧 🚀 **PROJECTS & TOOLS**
+## 🔧 🚀 **OTHER PROJECTS & TOOLS**
 | 📂 Project / Tool | 🌐 Link |
 |-------------------|--------|
 | 🛠️ **Hacking Tools & Scripts** | [🔗 View](https://github.com/adviksinghania/ethical-hacking-scripts.git) |
