@@ -62,10 +62,8 @@
 ## 🔧 🚀 **PROJECTS & TOOLS**
 | 📂 Project / Tool | 🌐 Link |
 |-------------------|--------|
-| 🛠️ **Hacking Tools & Scripts** | [🔗 View](https://github.com/harik90) |
-| 📱 **Android RAT (Private Repo)** | 🔒 Private |
-| 🕵️ **OSINT Tools & Automation** | [🔗 View](https://github.com/harik90) |
-| 🐍 **Python Security Scripts** | [🔗 View](https://github.com/harik90) |
+| 🛠️ **Hacking Tools & Scripts** | [🔗 View](https://github.com/adviksinghania/ethical-hacking-scripts.git) |
+| 📱 **Android RAT (Private Repo)** | [🔗 View](https://github.com/AhMyth/AhMyth-Android-RAT.git)|
 
 ---
 
