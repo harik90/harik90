@@ -71,7 +71,7 @@
 | 🌐 **Platform** | 🔗 **Access Link** |
 |-----------------|--------------------|
 | 🖥️ **GitHub Profile** | [Visit ANON on GitHub](https://github.com/harik90) |
-| 💬 **Join Telegram Channel** | [Join ANON on Telegram](https://t.me/Anon734) |
+| 💬 **Telegram** | [Join ANON on Telegram](https://t.me/Anon734) |
 | 📌 **Follow on Pinterest** | [Explore ANON on Pinterest](https://pin.it/SDeB1nv4r) |
 
 ---
