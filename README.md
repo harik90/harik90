@@ -70,18 +70,18 @@
 ## 🌐 🤝 **CONNECT WITH ME**
 | 🌐 **Platform** | 🔗 **Access Link** |
 |-----------------|--------------------|
-| 🖥️ **GitHub Profile** | [Visit ANON on GitHub](https://github.com/harik90) |
-| 💬 **Telegram** | [Join ANON on Telegram](https://t.me/Anon734) |
-| 📌 **Follow on Pinterest** | [Explore ANON on Pinterest](https://pin.it/SDeB1nv4r) |
+| 🖥️ **Visit My Asset mix** | [My Portfolio](https://anon90.web.app) |
+| 💬 **Telegram** | [My Telegram](https://t.me/Anon734) |
+| 📌 **Follow on Pinterest** | [Explore My on Pinterest](https://pin.it/SDeB1nv4r) |
 
 ---
 
 ## 🧠 Skills & Tools with Progress
-| Skill                          | Progress            |
-|------------------------------- |---------------------|
-| 🐍 Python                     | ██████████ 90%       |
-| ☕ Java / Android Dev          | ██████████ 95%       |
-| 💻 Software Engineering (OOP) | ██████████ 95%       |
+| Skill                          | Progress             |
+|------------------------------- |----------------------|
+| 🐍 Python                      | ██████████ 90%       |
+| ☕ Java / Android Dev           | ██████████ 95%       |
+| 💻 Software Engineering (OOP)  | ██████████ 95%       |
 | 🖥️ Linux / Bash Scripting      | █████████ 85%        |
 | 🌐 Web Exploitation            | ████████ 80%         |
 | 📲 Android Hacking / RAT       | ██████████ 90%       |
