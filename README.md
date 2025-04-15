@@ -6,25 +6,29 @@
 
 ---
 
-## 🧠 Skills & Tools (Tech Stack)
-<p align="left|center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Metasploit-0080FF?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-00417A?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-</p>
+## 🔥 **Cyber Arsenal** (Tech Stack)
 
+### 💻 Programming & Scripting
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+### 🛡️ Security Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-%230080FF.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%2300417A.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 📱 Mobile & Systems
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+### 🗃️ Databases & Web
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
@@ -40,21 +44,18 @@
 
 ## 📈 Real-Time GitHub Stats
 
-<p align="left|center">
 
-<a href="https://github.com/harik90">
-  <img src="https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=tokyonight&bg_color=000000&border_color=FFFFFF&border_radius=10"/>
-</a>
+<div align="left">
+  
+  ![CyberOps Report](https://github-readme-stats.vercel.app/api?username=harik90&show_icons=true&theme=dark&bg_color=0d1117&title_color=00F728&text_color=FFFFFF&border_color=00F728)
+  
+  ![Mission Streak](https://github-readme-streak-stats.herokuapp.com/?user=harik90&theme=dark&background=0d1117&stroke=00F728&ring=00F728&fire=00F728&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F728)
+  
+  ![Weaponry](https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=dark&bg_color=0d1117&title_color=00F728&text_color=FFFFFF&border_color=00F728)
 
-<a href="https://github.com/harik90">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harik90&theme=tokyonight&background=000000&border=FFFFFF&border_radius=10" />
-</a>
+</div>
 
-<a href="https://github.com/harik90">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harik90&layout=compact&theme=tokyonight&bg_color=000000&border_color=FFFFFF&border_radius=10" />
-</a>
-
-</p>
+---
 
 
 ---
